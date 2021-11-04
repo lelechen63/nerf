@@ -1,0 +1,11 @@
+expname = facescape
+basedir = ./logs
+datadir = ./data/facescape/fsmview_images/183/17_cheek_blowing
+dataset_type = facescape
+
+N_rand = 32762
+N_samples = 64
+N_importance = 64
+
+use_viewdirs = True
+raw_noise_std = 1e0
