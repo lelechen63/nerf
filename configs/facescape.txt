@@ -1,6 +1,6 @@
 expname = facescape
 basedir = ./logs
-datadir = lelechen/data/Facescape/fsmview_images/1/1_neutral/
+datadir = /data/home/uss00022/lelechen/data/Facescape/fsmview_images/1/1_neutral
 dataset_type = facescape
 
 N_rand = 32762
