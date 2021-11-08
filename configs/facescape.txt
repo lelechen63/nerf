@@ -4,7 +4,6 @@ datadir = /data/home/uss00022/lelechen/data/Facescape/fsmview_images/1/1_neutral
 dataset_type = facescape
 
 N_rand = 16381
-N_rand_tmp = 32762
 
 N_samples = 64
 N_importance = 64
