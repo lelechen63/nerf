@@ -1,6 +1,6 @@
 expname = facescape
 basedir = ./logs
-datadir = /mnt/Data02/celong/FaceScape/fsmview_images/1/1_neutral
+datadir = /home/uss00022/lelechen/github/nerf/data/1_neutral
 dataset_type = facescape
 
 N_rand = 32762
