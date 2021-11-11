@@ -7,6 +7,7 @@ import json
 from tqdm import tqdm
 import os
 
+
 def get_rays_np_cvcam(H, W, K, Rt, scale=1):
     """
     (H, W): size of the imaging film
